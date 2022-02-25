@@ -1,0 +1,12 @@
+.idea
+
+cen-clf/__pycache__
+cen-clf/*txt
+cen-clf/runs/
+cen-clf/saves/
+
+fed-baseline/saves/
+fed-baseline/runs/
+fed-baseline/__pycache__
+fed-baseline/*tar
+fed-baseline/*txt
