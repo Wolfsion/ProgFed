@@ -3,7 +3,7 @@
 seed: 6660857
 dataset: cifar10
 download: True
-data_path:
+data_path: ~/datasets/CIFAR10
 strategy: baseline
 update-cycle: 25
 batch_size: 128

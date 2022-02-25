@@ -1,5 +1,3 @@
-# 转载
-
 To run the code python main.py -cfg path_to_setting_file
 
 For example,
